@@ -1,13 +1,15 @@
 # Schwa Industries Privacy Policy
 
+## Introduction
+
 This Privacy Policy describes how your personal information is collected, used, and shared across all websites, applications, and services ran by Schwa Industries and all of its subsidaries, unless specified otherwise.
 
-## Information Collection, Use, and Sharing
+## SECTION I. Information Collection, Use, and Sharing
 We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via use of our services. We will not sell or rent this information to anyone, nor use it for any purpose other than what it was intended for.
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to collect information from a service that you have requested.
 
-## Your Access to and Control Over Information
+## SECTION II. Your Access to and Control Over Information
 You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via email at contact@schwa.tech:
 
    • See what data we have about you, if any.
@@ -18,7 +20,7 @@ You may opt out of any future contacts from us at any time. You can do the follo
 
    • Express any concern you have about our use of your data.
 
-## Security
+## SECTION III. Security
 We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.
 
 Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
@@ -33,7 +35,7 @@ We use several third party services to assist in providing you our services. Ple
 * Riot Games: https://www.riotgames.com/en/privacy-notice
 
 
-## Updates
+## SECTION IV. Updates
 Our Privacy Policy may change from time to time and all updates will be posted on this page and on our GitHub repository at https://github.com/SchwaIndustries/privacy.
 
 If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at contact@schwa.tech.
